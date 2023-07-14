@@ -1,0 +1,3 @@
+# ignore the directories
+workshop01/__pycache__
+workshop01/venv
